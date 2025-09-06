@@ -1,2 +1,6 @@
 streamlit
-openai
+numpy
+pandas
+typing
+matplotlib
+seaborn
